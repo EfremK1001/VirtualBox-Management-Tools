@@ -6,6 +6,7 @@ A Set Of Tools for VirtualBox Made with &lt;3 for Beginners
 ## Prerequisites
 
 - Python 3.x
+- If On Linux VirtualBox From https://www.virtualbox.org/ Not From Any Software Hub
 - VirtualBox installed and added to system PATH
 - `curses` library for Python (windows-curses)
 
