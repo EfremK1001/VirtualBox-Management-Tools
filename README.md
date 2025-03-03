@@ -7,7 +7,6 @@ A Set Of Tools for VirtualBox Made with &lt;3 for Beginners
 
 - Python 3.x
 - VirtualBox installed and added to system PATH
-- Windows operating system
 - `curses` library for Python (windows-curses)
 
 ## Features
